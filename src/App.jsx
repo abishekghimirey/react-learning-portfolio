@@ -7,7 +7,7 @@ import {
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
-import Home from "./pages/Home";
+import About from "./pages/About";
 import Profile from "./pages/Profile";
 import Skills from "./pages/Skills";
 import Concepts from "./pages/Concepts";
@@ -25,7 +25,7 @@ function App() {
 
         <Route
           path="/"
-          element={<Home />}
+          element={<About />}
         />
 
         <Route

@@ -50,7 +50,7 @@ function Navbar() {
           isActive ? "active-link" : ""
         }
       >
-        Home
+        About
       </NavLink>
 
       <NavLink
