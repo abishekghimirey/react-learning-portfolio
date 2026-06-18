@@ -26,7 +26,7 @@ function Home() {
 
           <p>
             <strong>
-              Abishek Ghimire
+              Abikeshar Ghimire
             </strong>
             <br />
             (2530004)
